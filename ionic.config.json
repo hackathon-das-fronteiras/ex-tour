@@ -1,0 +1,7 @@
+{
+  "name": "extour",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
